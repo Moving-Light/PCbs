@@ -1,0 +1,19 @@
+Importer Log Report
+Project : Bananna board.PrjPcb
+
+Section : Analyze Document - C:\Users\Nate\Documents\GitHub\PCbs\US iLab Led Driver\Bananna board.brd
+    Analyzing data of C:\Users\Nate\Documents\GitHub\PCbs\US iLab Led Driver\Bananna board.brd
+    Load settings
+    Load layers 145
+    Load board
+    Load Library "OS102011MA1QN1"
+    Load Packages 1
+    Load Library "BAT-HLD-001-THM"
+    Load Packages 1
+    Load Library "L08R5000Q1"
+    Load Packages 1
+    Load Library "resistor"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    ERROR: Unhandled typemfgpreviewcolors
+EndSection
